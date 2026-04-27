@@ -6,6 +6,7 @@ This is my first project using HTML, CSS, and GitHub.
 
 - `index.html`: The main HTML file.
 - `style.css`: The CSS styling file.
+- `app.js` : JS file.
 
 ## What I learned
 
